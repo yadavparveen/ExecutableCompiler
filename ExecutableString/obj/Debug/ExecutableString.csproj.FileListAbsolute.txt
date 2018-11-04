@@ -1,0 +1,7 @@
+E:\code\POC\ExecutableProgram\ExecutableString\ExecutableString\bin\Debug\ExecutableString.exe.config
+E:\code\POC\ExecutableProgram\ExecutableString\ExecutableString\bin\Debug\ExecutableString.exe
+E:\code\POC\ExecutableProgram\ExecutableString\ExecutableString\bin\Debug\ExecutableString.pdb
+E:\code\POC\ExecutableProgram\ExecutableString\ExecutableString\obj\Debug\ExecutableString.csprojAssemblyReference.cache
+E:\code\POC\ExecutableProgram\ExecutableString\ExecutableString\obj\Debug\ExecutableString.csproj.CoreCompileInputs.cache
+E:\code\POC\ExecutableProgram\ExecutableString\ExecutableString\obj\Debug\ExecutableString.exe
+E:\code\POC\ExecutableProgram\ExecutableString\ExecutableString\obj\Debug\ExecutableString.pdb
